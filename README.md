@@ -25,7 +25,7 @@ souce data is a example data set of 500 patients in .xls format
 
 ```bash
 
-python convert.py
+python excelconverter.py
 
 ```
 

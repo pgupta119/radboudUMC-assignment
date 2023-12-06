@@ -1,0 +1,84 @@
+2023-12-06 11:15:27,251 - INFO - File already converted: 11,16,17,18 CIMS misc.xls
+2023-12-06 11:15:27,259 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 CIMS misc1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,261 - ERROR - Conversion failed for 11,16,17,18 CIMS misc1.xls. Moved to failed directory.
+2023-12-06 11:15:27,261 - INFO - File already converted: 11,16,17,18 admissions.xls
+2023-12-06 11:15:27,262 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 admissions1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,263 - ERROR - Conversion failed for 11,16,17,18 admissions1.xls. Moved to failed directory.
+2023-12-06 11:15:27,263 - INFO - File already converted: 11,16,17,18 basic patient.xls
+2023-12-06 11:15:27,264 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 basic patient1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,264 - ERROR - Conversion failed for 11,16,17,18 basic patient1.xls. Moved to failed directory.
+2023-12-06 11:15:27,264 - INFO - File already converted: 11,16,17,18 basic transplant.xls
+2023-12-06 11:15:27,265 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 basic transplant1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,266 - ERROR - Conversion failed for 11,16,17,18 basic transplant1.xls. Moved to failed directory.
+2023-12-06 11:15:27,266 - INFO - File already converted: 11,16,17,18 gfr and mri.xls
+2023-12-06 11:15:27,266 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 gfr and mri1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,267 - ERROR - Conversion failed for 11,16,17,18 gfr and mri1.xls. Moved to failed directory.
+2023-12-06 11:15:27,267 - INFO - File already converted: 11,16,17,18 glucose.xls
+2023-12-06 11:15:27,268 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 glucose1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,269 - ERROR - Conversion failed for 11,16,17,18 glucose1.xls. Moved to failed directory.
+2023-12-06 11:15:27,269 - INFO - File already converted: 11,16,17,18 lab avg.xls
+2023-12-06 11:15:27,270 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 lab avg1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,272 - ERROR - Conversion failed for 11,16,17,18 lab avg1.xls. Moved to failed directory.
+2023-12-06 11:15:27,272 - INFO - File already converted: 11,16,17,18 meds.xls
+2023-12-06 11:15:27,272 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 meds1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,273 - ERROR - Conversion failed for 11,16,17,18 meds1.xls. Moved to failed directory.
+2023-12-06 11:15:27,273 - INFO - File already converted: 11,16,17,18 raw lab.xls
+2023-12-06 11:15:27,274 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 raw lab1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,276 - ERROR - Conversion failed for 11,16,17,18 raw lab1.xls. Moved to failed directory.
+2023-12-06 11:15:27,276 - INFO - File already converted: 11,16,17,18 serology.xls
+2023-12-06 11:15:27,276 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 serology1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,277 - ERROR - Conversion failed for 11,16,17,18 serology1.xls. Moved to failed directory.
+2023-12-06 11:15:27,277 - INFO - File already converted: 11,16,17,18 tac levels.xls
+2023-12-06 11:15:27,278 - ERROR - Error converting file ../../data/source/Data 4/11-20/11,16,17,18 tac levels1.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,279 - ERROR - Conversion failed for 11,16,17,18 tac levels1.xls. Moved to failed directory.
+2023-12-06 11:15:27,279 - INFO - File already converted: Admissions 12,13,14,19,20.xls
+2023-12-06 11:15:27,279 - ERROR - Error converting file ../../data/source/Data 4/11-20/Admissions 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,280 - ERROR - Conversion failed for Admissions 12,13,14,19,201.xls. Moved to failed directory.
+2023-12-06 11:15:27,280 - INFO - File already converted: Admit date & Meds 11-20.xls
+2023-12-06 11:15:27,280 - ERROR - Error converting file ../../data/source/Data 4/11-20/Admit date & Meds 11-201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,281 - ERROR - Conversion failed for Admit date & Meds 11-201.xls. Moved to failed directory.
+2023-12-06 11:15:27,281 - INFO - File already converted: AdmitDate 11-20 excl 15.xls
+2023-12-06 11:15:27,281 - ERROR - Error converting file ../../data/source/Data 4/11-20/AdmitDate 11-20 excl 151.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,282 - ERROR - Conversion failed for AdmitDate 11-20 excl 151.xls. Moved to failed directory.
+2023-12-06 11:15:27,282 - INFO - File already converted: Basic patient 12,13,14,19,20.xls
+2023-12-06 11:15:27,282 - ERROR - Error converting file ../../data/source/Data 4/11-20/Basic patient 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,283 - ERROR - Conversion failed for Basic patient 12,13,14,19,201.xls. Moved to failed directory.
+2023-12-06 11:15:27,283 - INFO - File already converted: Basic transplant 12,13,14,19,20.xls
+2023-12-06 11:15:27,283 - ERROR - Error converting file ../../data/source/Data 4/11-20/Basic transplant 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,283 - ERROR - Conversion failed for Basic transplant 12,13,14,19,201.xls. Moved to failed directory.
+2023-12-06 11:15:27,283 - INFO - File already converted: CIMS misc 12,13,14,19,20.xls
+2023-12-06 11:15:27,284 - ERROR - Error converting file ../../data/source/Data 4/11-20/CIMS misc 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,285 - ERROR - Conversion failed for CIMS misc 12,13,14,19,201.xls. Moved to failed directory.
+2023-12-06 11:15:27,285 - INFO - File already converted: Dialysis 11-20 excl 15.xls
+2023-12-06 11:15:27,285 - ERROR - Error converting file ../../data/source/Data 4/11-20/Dialysis 11-20 excl 151.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,286 - ERROR - Conversion failed for Dialysis 11-20 excl 151.xls. Moved to failed directory.
+2023-12-06 11:15:27,286 - INFO - File already converted: Glucose 12,13,14,19,20.xls
+2023-12-06 11:15:27,286 - ERROR - Error converting file ../../data/source/Data 4/11-20/Glucose 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,287 - ERROR - Conversion failed for Glucose 12,13,14,19,201.xls. Moved to failed directory.
+2023-12-06 11:15:27,287 - INFO - File already converted: Labs avg 12,13,14,19,20.xls
+2023-12-06 11:15:27,288 - ERROR - Error converting file ../../data/source/Data 4/11-20/Labs avg 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,288 - ERROR - Conversion failed for Labs avg 12,13,14,19,201.xls. Moved to failed directory.
+2023-12-06 11:15:27,288 - INFO - File already converted: Labs raw 12,13,14,19,20.xls
+2023-12-06 11:15:27,289 - ERROR - Error converting file ../../data/source/Data 4/11-20/Labs raw 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,290 - ERROR - Conversion failed for Labs raw 12,13,14,19,201.xls. Moved to failed directory.
+2023-12-06 11:15:27,290 - INFO - File already converted: MMF levels 11-20 excl 15.xls
+2023-12-06 11:15:27,290 - ERROR - Error converting file ../../data/source/Data 4/11-20/MMF levels 11-20 excl 151.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,290 - ERROR - Conversion failed for MMF levels 11-20 excl 151.xls. Moved to failed directory.
+2023-12-06 11:15:27,290 - INFO - File already converted: Meds 12,13,14,19,20.xls
+2023-12-06 11:15:27,291 - ERROR - Error converting file ../../data/source/Data 4/11-20/Meds 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,291 - ERROR - Conversion failed for Meds 12,13,14,19,201.xls. Moved to failed directory.
+2023-12-06 11:15:27,291 - INFO - File already converted: Serology (2) 11-20 excl 15.xls
+2023-12-06 11:15:27,292 - ERROR - Error converting file ../../data/source/Data 4/11-20/Serology (2) 11-20 excl 151.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,292 - ERROR - Conversion failed for Serology (2) 11-20 excl 151.xls. Moved to failed directory.
+2023-12-06 11:15:27,292 - INFO - File already converted: Serology 12,13,14,19,20.xls
+2023-12-06 11:15:27,293 - ERROR - Error converting file ../../data/source/Data 4/11-20/Serology 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,293 - ERROR - Conversion failed for Serology 12,13,14,19,201.xls. Moved to failed directory.
+2023-12-06 11:15:27,293 - INFO - File already converted: Tac levels 12,13,14,19,20.xls
+2023-12-06 11:15:27,294 - ERROR - Error converting file ../../data/source/Data 4/11-20/Tac levels 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,294 - ERROR - Conversion failed for Tac levels 12,13,14,19,201.xls. Moved to failed directory.
+2023-12-06 11:15:27,294 - INFO - File already converted: Vitals 11-20 excl 15.xls
+2023-12-06 11:15:27,295 - ERROR - Error converting file ../../data/source/Data 4/11-20/Vitals 11-20 excl 151.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,296 - ERROR - Conversion failed for Vitals 11-20 excl 151.xls. Moved to failed directory.
+2023-12-06 11:15:27,296 - INFO - File already converted: mGFR & MRI 12,13,14,19,20.xls
+2023-12-06 11:15:27,297 - ERROR - Error converting file ../../data/source/Data 4/11-20/mGFR & MRI 12,13,14,19,201.xls: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.3'
+2023-12-06 11:15:27,297 - ERROR - Conversion failed for mGFR & MRI 12,13,14,19,201.xls. Moved to failed directory.
