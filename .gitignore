@@ -1,1 +1,19 @@
-git
+excelconverter/*
+data/.DS_Store
+
+data/source/.DS_Store
+
+
+add this to in your gitignore:
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.idea
+src/components/.DS_Store
+
+
+
+
